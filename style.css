@@ -1,0 +1,14 @@
+
+table,th,td,tr{
+  border:1px solid black;
+  text-align: center;
+  margin:auto;
+  border-collapse: collapse;
+  width:500px;
+  background-color: aqua;
+  
+}
+
+td{
+  text-align: left;
+}
